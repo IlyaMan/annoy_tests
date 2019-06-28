@@ -1,0 +1,5 @@
+annoy==1.15.2
+autopep8==1.4.4
+pycodestyle==2.5.0
+tqdm==4.32.2
+ujson==1.35
